@@ -1,5 +1,5 @@
 # Movie-Recommendation-System:-
-                              This is the code for building a recommendation system based on collaborative filtering using Python and Scikitlearn.Data used consist of IMDB 5000 movies to build a content based recommendation engine using CountVectorize and Cosine similarity scores between movies and recommend it to the users.
+This is the code for building a recommendation system based on collaborative filtering using Python and Scikitlearn.Data used consist of IMDB 5000 movies to build a content based recommendation engine using CountVectorize and Cosine similarity scores between movies and recommend it to the users.
 # Dependices:-
 1)numpy
 2)pandas
@@ -18,3 +18,7 @@
 ![WhatsApp Image 2020-07-09 at 9 08 57 PM](https://user-images.githubusercontent.com/55802357/87152052-9bbd0c00-c2d2-11ea-9c4c-8c87bdc7f54a.jpeg)
 
                               
+# Limtations
+The project takes some seconds to analyze and display the output as the data set is vast.This can be improved.
+
+ Any Suggestion/ideas to improve my project better can ping me
